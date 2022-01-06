@@ -1,3 +1,2 @@
 # flutter-task
-Tugas Flutter - PSG
-Dasar-dasarnya saja
+Flutter, dasar-dasarnya saja
