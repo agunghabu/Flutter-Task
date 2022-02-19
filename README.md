@@ -1,2 +1,2 @@
 # Flutter Task
-Flutter, dasar-dasarnya saja
+Project Dart & Flutter dari dasar sampai Project Pribadi
